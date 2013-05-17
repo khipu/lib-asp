@@ -1,5 +1,5 @@
 # Khipu
-Biblioteca PHP para utilizar los servicios de Khipu.com
+Biblioteca ASP para utilizar los servicios de Khipu.com
 
 Versión Biblioteca: 1.1.1
 
