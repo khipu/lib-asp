@@ -7,8 +7,7 @@ Biblioteca ASP para utilizar los servicios de Khipu.com
 
 Versión Biblioteca: 1.0
 
-Versión API Khipu: 1.1 
-Las notificaciones ocupan la versión: 1.2
+Versión API Khipu: 1.1  Las notificaciones ocupan la versión: 1.2
 
 La documentación de Khipu.com se puede ver desde aquí:
 https://khipu.com/page/api
@@ -109,7 +108,7 @@ Response.Write("<p>" & createPayment.renderForm("") & "</p>")
 ----------------------------------------------------
 
 Este servicio debe ser utilizado en la página que recibirá el POST desde khipu y
-no require identificar al cobrador.
+no require el secret del cobrador.
 
 A continuación un ejemplo:
 
